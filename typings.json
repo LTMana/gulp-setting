@@ -1,0 +1,6 @@
+{
+  "name": "gulp-setting",
+  "dependencies": {
+    "gulp": "registry:dt/gulp#4.0.0+20170315213030"
+  }
+}
